@@ -1,0 +1,15 @@
+com\example\footcare\controller\ServiceController.class
+com\example\footcare\controller\AppointmentController.class
+com\example\footcare\model\ContactMessage.class
+com\example\footcare\repository\ServiceRepository.class
+com\example\footcare\repository\UserRepository.class
+com\example\footcare\FootcareApplication.class
+com\example\footcare\repository\ContactMessageRepository.class
+com\example\footcare\security\JwtUtil.class
+com\example\footcare\security\SecurityConfig.class
+com\example\footcare\controller\AuthController.class
+com\example\footcare\controller\ContactController.class
+com\example\footcare\model\ServiceEntity.class
+com\example\footcare\model\User.class
+com\example\footcare\model\Appointment.class
+com\example\footcare\repository\AppointmentRepository.class

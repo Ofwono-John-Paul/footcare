@@ -1,0 +1,23 @@
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+[Failed to load PostCSS config: Failed to load PostCSS config (searchPath: C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend): [Error] Loading PostCSS Plugin failed: Cannot find module 'tailwindcss'
+Require stack:
+- C:\Users\CZAR-COMPUTERS\Desktop\files\repo\footcare\footcare\frontend\postcss.config.cjs
+
+(@C:\Users\CZAR-COMPUTERS\Desktop\files\repo\footcare\footcare\frontend\postcss.config.cjs)
+Error: Loading PostCSS Plugin failed: Cannot find module 'tailwindcss'
+Require stack:
+- C:\Users\CZAR-COMPUTERS\Desktop\files\repo\footcare\footcare\frontend\postcss.config.cjs
+
+(@C:\Users\CZAR-COMPUTERS\Desktop\files\repo\footcare\footcare\frontend\postcss.config.cjs)
+    at load (file:///C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33632:11)
+    at file:///C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33657:16
+    at Array.map (<anonymous>)
+    at plugins (file:///C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33656:8)
+    at processResult (file:///C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33726:14)
+    at file:///C:/Users/CZAR-COMPUTERS/Desktop/files/repo/footcare/footcare/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33856:14]
+
+Node.js v24.13.0
